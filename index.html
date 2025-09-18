@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bolsa</title>
+  <link rel="stylesheet" href="css/index.css" />
+</head>
+<body>
+  <!-- Header con fecha -->
+  <header id="appHeader" role="banner">
+    <div class="header-left">
+      <h1 class="app-title">Bolsa</h1>
+      <div id="todayDate" class="today-date" aria-live="polite"></div>
+    </div>
+    <div class="header-right">
+      <input id="searchInput" class="search-input" type="search" placeholder="Buscar símbolo o nombre…" aria-label="Buscar" />
+    </div>
+  </header>
+
+  <!-- Vista lista -->
+  <main id="list-view">
+    <!-- Noticias -->
+    <section id="newsSection" aria-label="Noticias de economía">
+      <div class="section-title with-actions">
+        <span>Noticias</span>
+        <div class="news-actions">
+          <span id="newsModeBadge" class="badge" title="Origen de los titulares"></span>
+          <button id="toggleNewsBtn" class="btn-outline" type="button" aria-expanded="false">Ver más</button>
+          <button id="refreshNewsBtn" class="btn-outline" type="button" aria-label="Actualizar noticias">Actualizar</button>
+        </div>
+      </div>
+      <div id="newsContainer" class="news-list collapsible collapsed" aria-live="polite"></div>
+      <div id="newsError" class="news-error" hidden></div>
+    </section>
+
+    <!-- Favoritas -->
+    <section id="favoritesSection" aria-label="Favoritas" style="display:none;">
+      <h2 class="section-title">Favoritas</h2>
+      <div id="favoritesContainer" class="list-block"></div>
+    </section>
+
+    <!-- Todas -->
+    <section id="allSection" aria-label="Todas">
+      <div class="section-title with-actions">
+        <span>Todas</span>
+        <button id="refreshQuotesBtn" class="btn-outline" type="button" aria-label="Actualizar precios">Actualizar</button>
+      </div>
+      <div id="stocksContainer" class="list-block"></div>
+    </section>
+  </main>
+
+  <!-- Vista detalle -->
+  <section id="detail-view" style="display:none;">
+    <button id="backButton" aria-label="Volver">← Volver</button>
+    <h2 id="detailTitle"></h2>
+
+    <!-- Controles de periodo -->
+    <div id="tfControls" class="tf-controls" role="tablist" aria-label="Seleccionar periodo">
+      <!-- botones se inyectan desde JS -->
+    </div>
+
+    <!-- Gráfica real -->
+    <div id="detailChart" class="detail-chart"></div>
+
+    <div id="detailMeta" class="detail-meta"></div>
+  </section>
+
+  <script src="js/index.js"></script>
+</body>
+</html>
