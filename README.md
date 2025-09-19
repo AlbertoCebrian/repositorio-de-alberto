@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, soy Alberto<br>Estudiante de ASIX | Interesado en el mundo de la ciberseguridad y la programación.<br><br>Sobre mí<br><br>Actualmente estoy trabajando en una app que recrea la app de bolsa, ya que tambien me gusta el mundo de la economia.<br>Aprendiendo: Python e inglés, basicos fundamentales.<br>Objetivo: Ir construyendo proyectos por mi cuenta que me hagan aprender nuevas tecnologias.<br>Tecnologías y herramientas<br>Lenguajes: Lo básico de HTML, CSS, JavaScript, PHP y Python<br>Sistemas Operativos usados: Windows, Ubuntu, Kali, Debian y Fedora.<br>Aprendiendo a usar Git y Github.<br>DB : MYSQL, POSTGRES y he tocado un poco de MONGODB.<br>Proyectos destacados<br>App Bolsa Simulada<br>Simulación de la app de Bolsa de Apple con datos ficticios. Hecho en HTML, CSS y JS.<br>Siempre intento a aprender y mejorar por mi cuenta cada día🚀
+👋 Hola, soy Alberto<br>Estudiante de ASIX | Interesado en el mundo de la ciberseguridad y la programación.<br><br>Sobre mí<br><br>Actualmente estoy trabajando en una app que recrea la app de bolsa, ya que tambien me gusta el mundo de la economia.
 
 
 ## 🌐 Socials:
