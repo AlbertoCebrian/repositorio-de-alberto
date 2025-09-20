@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, soy Alberto<br>Estudiante de ASIX | Interesado en el mundo de la ciberseguridad y la programación.<br><br>Sobre mí<br><br>Actualmente estoy trabajando en una app que recrea la app de bolsa, ya que tambien me gusta el mundo de la economia.
+👋 Hola, soy Alberto<br>Estudiante de ASIX | Interesado en el mundo de la ciberseguridad y la programación.<br><br>Sobre mí<br><br>Actualmente estoy trabajando en una app web usando el stack MERN, MongoDB, Express.js, React y Next.js, podeis ver el avanze en ProyectoAsix en el otro repositorio.
 
 
 ## 🌐 Socials:
