@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, soy Alberto<br>Estudiante de ASIX | Interesado en el mundo de la ciberseguridad y la programación.<br><br>Sobre mí<br><br>Actualmente estoy trabajando en una app web usando el stack MERN, MongoDB, Express.js, React y Next.js, podeis ver el avanze en ProyectoAsix en el otro repositorio.
+👋 Hola, soy Alberto<br>Estudiante de Ingenería Informatica | Interesado en el mundo de la ciberseguridad y la programación.<br><br>Sobre mí<br><br>Actualmente estoy trabajando en una app web usando el stack MERN, MongoDB, Express.js, React y Next.js, podeis ver el avanze en ProyectoAsix en el otro repositorio.
 
 
 ## 🌐 Socials:
